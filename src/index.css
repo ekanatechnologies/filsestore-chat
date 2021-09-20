@@ -1,0 +1,11 @@
+*{
+  margin:0;
+  padding: 0;
+}
+.footer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2f3135;
+  color:gray;
+}
